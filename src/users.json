@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "username": "felhasznalo1",
+      "password": "jelszo1",
+      "name": "Első Felhasználó",
+      "email": "felhasznalo1@example.com",
+      "roles": ["felhasználó"]
+    },
+    {
+      "id": 2,
+      "username": "felhasznalo2",
+      "password": "jelszo2",
+      "name": "Második Felhasználó",
+      "email": "felhasznalo2@example.com",
+      "roles": ["felhasználó"]
+    },
+    {
+      "id": 3,
+      "username": "admin",
+      "password": "admin123",
+      "name": "Admin Felhasználó",
+      "email": "admin@example.com",
+      "roles": ["felhasználó", "admin"]
+    }
+  ]
